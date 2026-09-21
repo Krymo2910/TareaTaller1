@@ -1,0 +1,8 @@
+C:\Proyectos\Visual Studio\Tarea1Taller\bin\Debug\Tarea1Taller.exe.config
+C:\Proyectos\Visual Studio\Tarea1Taller\bin\Debug\Tarea1Taller.exe
+C:\Proyectos\Visual Studio\Tarea1Taller\bin\Debug\Tarea1Taller.pdb
+C:\Proyectos\Visual Studio\Tarea1Taller\obj\Debug\Tarea1Taller.csproj.AssemblyReference.cache
+C:\Proyectos\Visual Studio\Tarea1Taller\obj\Debug\Tarea1Taller.csproj.CoreCompileInputs.cache
+C:\Proyectos\Visual Studio\Tarea1Taller\obj\Debug\Tarea1Taller.exe
+C:\Proyectos\Visual Studio\Tarea1Taller\obj\Debug\Tarea1Taller.pdb
+C:\Proyectos\Visual Studio\Tarea1Taller\obj\Debug\Tarea1Taller.exe.config
